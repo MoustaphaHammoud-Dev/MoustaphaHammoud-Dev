@@ -78,7 +78,7 @@ I'm actively working toward a **PhD in AI/ML at a London university**, focusing 
 |--------|------------|------|
 | MSc Computer Science (M1 — In Progress) | Université Saint-Joseph de Beyrouth (USJ) | 2025 – 2027 |
 | BSc Computer Science | Université Saint-Joseph de Beyrouth (USJ) | 2022 – 2025 |
-| Business Administration (1st year) | Université Saint-Joseph de Beyrouth (USJ) | 2020 – 2021 |
+| Business Administration (1st year) | Université Saint-Joseph de Beyrouth (USJ) | 2021 – 2022 |
 ---
 
 ## 🌍 Languages
